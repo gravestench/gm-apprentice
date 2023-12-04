@@ -1,0 +1,934 @@
+- type: Olfactory
+  description: Garlic
+- type: Olfactory
+  description: Sand and sunscreen
+- type: Olfactory
+  description: Fetid breath tainted with offal
+- type: Olfactory
+  description: An alluring cologne
+- type: Olfactory
+  description: Clover and wildflowers
+- type: Olfactory
+  description: The midden behind a plague ward
+- type: Olfactory
+  description: Dry-rot
+- type: Olfactory
+  description: Crisp winter wind
+- type: Olfactory
+  description: A heady whiff of permanent marker
+- type: Olfactory
+  description: Sun-ripened tomatoes
+- type: Olfactory
+  description: The odd, dusty scent of snake-skin
+- type: Olfactory
+  description: The dank of a tomb
+- type: Olfactory
+  description: floral aroma
+- type: Olfactory
+  description: An overpowering, musky odor
+- type: Olfactory
+  description: An oncoming storm
+- type: Olfactory
+  description: Moss and old earth
+- type: Olfactory
+  description: Diesel exhaust
+- type: Olfactory
+  description: Freshly-shucked corn
+- type: Olfactory
+  description: Intense vinegar
+- type: Olfactory
+  description: Fragrant herbs covering bitter
+- type: Olfactory
+  description: Healthful country air
+- type: Olfactory
+  description: Fried dough
+- type: Olfactory
+  description: Coal smoke
+- type: Olfactory
+  description: Cat piss
+- type: Olfactory
+  description: Spoiled milk
+- type: Olfactory
+  description: Pine-wood and needles
+- type: Olfactory
+  description: Pencil shavings
+- type: Olfactory
+  description: A gangrenous, festering wound
+- type: Olfactory
+  description: A sulphurous aura
+- type: Olfactory
+  description: Chalk dust
+- type: Olfactory
+  description: Faint hints of coconut
+- type: Olfactory
+  description: Still-warm bread
+- type: Olfactory
+  description: Drying paint
+- type: Olfactory
+  description: Salty ocean spray
+- type: Olfactory
+  description: Swampy mud,
+- type: Olfactory
+  description: Hot melted butter
+- type: Olfactory
+  description: Cut grass
+- type: Olfactory
+  description: Polluted water and dead fish
+- type: Olfactory
+  description: Dry hay
+- type: Olfactory
+  description: Greasy sheep's wool
+- type: Olfactory
+  description: Cedarwood
+- type: Olfactory
+  description: Gunsmoke
+- type: Olfactory
+  description: The stink of death
+- type: Olfactory
+  description: A pungent fart
+- type: Olfactory
+  description: Lemon and soap
+- type: Olfactory
+  description: Frying sausage
+- type: Olfactory
+  description: Burning candles
+- type: Olfactory
+  description: Snow
+- type: Olfactory
+  description: A riot of conflicting scents
+- type: Olfactory
+  description: Lively springtime air
+- type: Olfactory
+  description: Smoked ham
+- type: Olfactory
+  description: Chipped-wood mulch
+- type: Olfactory
+  description: The acrid stench of a tannery
+- type: Olfactory
+  description: Nervous sweat
+- type: Olfactory
+  description: Dark coffee
+- type: Olfactory
+  description: Rotting meat
+- type: Olfactory
+  description: Violets
+- type: Olfactory
+  description: Newsprint
+- type: Olfactory
+  description: Thick, ashey smoke
+- type: Olfactory
+  description: Wafting fumes of sewage
+- type: Olfactory
+  description: An aura of mothballs
+- type: Olfactory
+  description: The heady aroma of wine
+- type: Olfactory
+  description: A disinfectant tang
+- type: Olfactory
+  description: The reek of vomit
+- type: Olfactory
+  description: Fresh-brewed tea
+- type: Olfactory
+  description: Nutmeg and warm spices
+- type: Olfactory
+  description: New leather
+- type: Olfactory
+  description: Zesty citrus
+- type: Olfactory
+  description: Sweaty beasts of burden
+- type: Olfactory
+  description: Baking chocolate
+- type: Olfactory
+  description: Strong alcohol
+- type: Olfactory
+  description: Roses and honey
+- type: Olfactory
+  description: Damp, wretched air
+- type: Olfactory
+  description: on dry earth
+- type: Olfactory
+  description: Moldering vegetation
+- type: Olfactory
+  description: Cloying perfume
+- type: Olfactory
+  description: Ripe dung
+- type: Olfactory
+  description: The vanilla of ancient books
+- type: Olfactory
+  description: Flowered water
+- type: Olfactory
+  description: Industrial grease
+- type: Olfactory
+  description: A light, delicate bouquet
+- type: Olfactory
+  description: Burning hair
+- type: Olfactory
+  description: An odd fragrance
+- type: Olfactory
+  description: Moist earth
+- type: Olfactory
+  description: Noxious chemicals,
+- type: Olfactory
+  description: Cinnamon and cloves
+- type: Olfactory
+  description: Ancient, dry
+- type: Olfactory
+  description: Recently applied polish
+- type: Olfactory
+  description: Deodorizing spray
+- type: Olfactory
+  description: Sage incense
+- type: Olfactory
+  description: A dusty cellar
+- type: Olfactory
+  description: Aromatic potpourri
+- type: Olfactory
+  description: Rancid oil
+- type: Olfactory
+  description: Rank sweat and sour bodies
+- type: Olfactory
+  description: Coppery blood
+- type: Olfactory
+  description: Almond
+- type: Olfactory
+  description: Artificially recycled atmosphere
+- type: Olfactory
+  description: A trace of spice
+- type: Olfactory
+  description: Putrid flesh
+- type: Olfactory
+  description: Abrasive, eye-watering bleach
+- type: Olfactory
+  description: Apples and plums
+- type: Olfactory
+  description: Jasmine flowers
+- type: Olfactory
+  description: Toasting nuts
+- type: Olfactory
+  description: Aclinical, hospital quality
+- type: Olfactory
+  description: Sickly-sweet decay
+- type: Olfactory
+  description: Wet fur
+- type: Olfactory
+  description: Stale feet
+- type: Olfactory
+  description: Savory delights
+- type: Olfactory
+  description: The mildew of abandoned space
+- type: Visual
+  description: Iron-bound oak
+- type: Visual
+  description: A sweet smile
+- type: Visual
+  description: A finely-tailored suit
+- type: Visual
+  description: Flowers in her hair
+- type: Visual
+  description: A slow, stately procession
+- type: Visual
+  description: A glowing wrist-band,
+- type: Visual
+  description: Dull greys and browns
+- type: Visual
+  description: A swarm of flies
+- type: Visual
+  description: A magnificent, ornate weapon
+- type: Visual
+  description: Sleek lines, all speed and strength
+- type: Visual
+  description: A box standing on legs
+- type: Visual
+  description: Ornately carved gargoyles
+- type: Visual
+  description: Hideously serrated teeth
+- type: Visual
+  description: Backed into a corner
+- type: Visual
+  description: Carrying their young
+- type: Visual
+  description: Pursued by armed men
+- type: Visual
+  description: Flanked by servants and guards
+- type: Visual
+  description: A grimy, broken crown
+- type: Visual
+  description: A trickle of water runs along
+- type: Visual
+  description: A runner carrying a messenger bag
+- type: Visual
+  description: A flash of teeth
+- type: Visual
+  description: The symbol of an obscure religion
+- type: Visual
+  description: A many-pointed star
+- type: Visual
+  description: Writhing tentacles
+- type: Visual
+  description: A dark bird, watching
+- type: Visual
+  description: One-eyed
+- type: Visual
+  description: Masked and robed
+- type: Visual
+  description: A shock of corn-silk hair
+- type: Visual
+  description: A suspicious hesitation
+- type: Visual
+  description: Swaying in the wind
+- type: Visual
+  description: A clump of twigs and debris
+- type: Visual
+  description: A pulsing orb
+- type: Visual
+  description: Pulsating disturbingly
+- type: Visual
+  description: The light flickers briefly
+- type: Visual
+  description: A portrait in odd hues
+- type: Visual
+  description: Snarling, with flecks of spittle
+- type: Visual
+  description: Dark crystals glinting in candlelight
+- type: Visual
+  description: A face peering in the window,
+- type: Visual
+  description: A malicious grin
+- type: Visual
+  description: Rodents scurry across
+- type: Visual
+  description: Motionless forms
+- type: Visual
+  description: Anxiously checking their watch
+- type: Visual
+  description: Floor-length, braided hair
+- type: Visual
+  description: Polished marble
+- type: Visual
+  description: Dried flowers
+- type: Visual
+  description: Tiny metal figurines
+- type: Visual
+  description: Shafts of light
+- type: Visual
+  description: A marvel of stained glass
+- type: Visual
+  description: Glistening wetly
+- type: Visual
+  description: Shining chrome
+- type: Visual
+  description: An age-faded tattoo
+- type: Visual
+  description: Chiseled stone
+- type: Visual
+  description: Tapestries depicting mythic scenes
+- type: Visual
+  description: Waving lines of sparkles,
+- type: Visual
+  description: The air is hazy
+- type: Visual
+  description: Vivid rainbow hues
+- type: Visual
+  description: Smudged glass
+- type: Visual
+  description: Bright streaks
+- type: Visual
+  description: Swirls of dust
+- type: Visual
+  description: Bouncing across the
+- type: Visual
+  description: Gaudy ornaments
+- type: Visual
+  description: Gloomy atmosphere
+- type: Visual
+  description: A glossy sheen covers
+- type: Visual
+  description: Enveloped in shadow
+- type: Visual
+  description: The grimy floor
+- type: Visual
+  description: A pallid and bloodless face
+- type: Visual
+  description: It grows dark
+- type: Visual
+  description: Dingy and dusty
+- type: Visual
+  description: Faint lines carved into
+- type: Visual
+  description: Flashy clothing
+- type: Visual
+  description: Faded and worn
+- type: Visual
+  description: Lazily spinning wheel
+- type: Visual
+  description: Shifting shadows
+- type: Visual
+  description: A gathering crowd
+- type: Visual
+  description: A blurred motion
+- type: Visual
+  description: Glistening fangs
+- type: Visual
+  description: Vibrant red and blue flutters
+- type: Visual
+  description: Blood stains
+- type: Visual
+  description: Blinking lights
+- type: Visual
+  description: A darting shape
+- type: Visual
+  description: Bloodshot eyes
+- type: Visual
+  description: Stormy clouds
+- type: Visual
+  description: A heap of scrap
+- type: Visual
+  description: A familiar face
+- type: Visual
+  description: The flash of a knife
+- type: Visual
+  description: A splash of red
+- type: Visual
+  description: Flames in the distance
+- type: Visual
+  description: Thick fog
+- type: Visual
+  description: Dense black smoke
+- type: Visual
+  description: Row upon row of glyphs and sigils
+- type: Visual
+  description: A spreading pool
+- type: Visual
+  description: A sprawled form
+- type: Visual
+  description: A crude drawing
+- type: Visual
+  description: A carved symbol
+- type: Visual
+  description: Garish and clashing colors
+- type: Visual
+  description: Dead, sun-bleached branches
+- type: Visual
+  description: A venerable tree reaches high
+- type: Visual
+  description: A blackened skull
+- type: Visual
+  description: Strange fungus covers
+- type: Visual
+  description: Ancient and blocky architecture
+- type: Visual
+  description: A child's toy sits
+- type: Visual
+  description: A crack runs through the
+- type: Visual
+  description: Brilliant, darting fish
+- type: Visual
+  description: A palace in the sky
+- type: Visual
+  description: A long-necked bird stares
+- type: Visual
+  description: A half-seen figure beckons
+- type: Visual
+  description: Roiling, oily smoke
+- type: Visual
+  description: Discarded armor
+- type: Visual
+  description: Lustrous pearls
+- type: Visual
+  description: Glowing, slitted eyes
+- type: Visual
+  description: A strange city in the distance
+- type: Visual
+  description: Mountaintops obscured by clouds
+- type: Visual
+  description: Stones of all shapes and sizes
+- type: Visual
+  description: Glinting metal
+- type: Visual
+  description: Movement just out of sight
+- type: Visual
+  description: A weapon held casually
+- type: Visual
+  description: Movement beneath the surface
+- type: Visual
+  description: The full moon,
+- type: Visual
+  description: Asliver of moon
+- type: Auditory
+  description: The clink of coins
+- type: Auditory
+  description: The trumpeting bellow of an animal
+- type: Auditory
+  description: A sudden quiet
+- type: Auditory
+  description: Grunting and snorting
+- type: Auditory
+  description: Impish, maniacal giggling
+- type: Auditory
+  description: Someone slurping greedily
+- type: Auditory
+  description: The crash of waves on rocks
+- type: Auditory
+  description: BANG
+- type: Auditory
+  description: An inhuman babbling
+- type: Auditory
+  description: The cascading rush of a waterfall
+- type: Auditory
+  description: A warning growl
+- type: Auditory
+  description: Exclamations of pleased surprise
+- type: Auditory
+  description: Tall grass and underbrush rustling
+- type: Auditory
+  description: The beat of swords on shields
+- type: Auditory
+  description: A cacophony of animal calls
+- type: Auditory
+  description: The growing rumble of hooves
+- type: Auditory
+  description: A one-sided conversation
+- type: Auditory
+  description: The whump of spinning blades
+- type: Auditory
+  description: The rattle of dice
+- type: Auditory
+  description: A cheering crowd
+- type: Auditory
+  description: The whistling of wind through
+- type: Auditory
+  description: Fire crackles
+- type: Auditory
+  description: The ping-ping-ping of cooling metal
+- type: Auditory
+  description: The cry of a bird of prey
+- type: Auditory
+  description: A phone ringing
+- type: Auditory
+  description: Pounding, discordant music
+- type: Auditory
+  description: A reverberating echo
+- type: Auditory
+  description: Distant drums
+- type: Auditory
+  description: Mocking snickers
+- type: Auditory
+  description: An ominous chuckle
+- type: Auditory
+  description: A crack of thunder
+- type: Auditory
+  description: The roar of an engine
+- type: Auditory
+  description: The squealing of a badly-tuned violin
+- type: Auditory
+  description: A sharp accusation
+- type: Auditory
+  description: Retching and vomiting
+- type: Auditory
+  description: A single beep
+- type: Auditory
+  description: Birdsong
+- type: Auditory
+  description: Childlike giggling
+- type: Auditory
+  description: One loud, abrupt splash
+- type: Auditory
+  description: Chaotic splashing
+- type: Auditory
+  description: Low moaning
+- type: Auditory
+  description: Voices chanting
+- type: Auditory
+  description: Raucous laughter
+- type: Auditory
+  description: Splitting, splintering wood
+- type: Auditory
+  description: Rain drumming against
+- type: Auditory
+  description: A series of explosions
+- type: Auditory
+  description: Clicking and clacking
+- type: Auditory
+  description: The thin piping of a flute
+- type: Auditory
+  description: Terrified squealing
+- type: Auditory
+  description: Rapidly approaching sirens
+- type: Auditory
+  description: The blast of a horn
+- type: Auditory
+  description: Screeching tires
+- type: Auditory
+  description: The scrape of a blade on a stone
+- type: Auditory
+  description: A snatch of song
+- type: Auditory
+  description: Horrible grinding and gnashing
+- type: Auditory
+  description: Harsh static
+- type: Auditory
+  description: Smashing pottery
+- type: Auditory
+  description: Shattering glass
+- type: Auditory
+  description: Distant revelry
+- type: Auditory
+  description: Glass clinking
+- type: Auditory
+  description: Crescendoing pursuit
+- type: Auditory
+  description: Demanding tones
+- type: Auditory
+  description: Sloshing liquid
+- type: Auditory
+  description: Strains of a haunting melody
+- type: Auditory
+  description: Teeth chattering
+- type: Auditory
+  description: A beating heart
+- type: Auditory
+  description: Heart-rending shrieks
+- type: Auditory
+  description: Pained cries
+- type: Auditory
+  description: The snicker-snack of slicing blades
+- type: Auditory
+  description: The clash of metal on metal
+- type: Auditory
+  description: A distinctive ca-click
+- type: Auditory
+  description: Angry whispering
+- type: Auditory
+  description: Growing whispers
+- type: Auditory
+  description: Fervent preaching
+- type: Auditory
+  description: The grinding of stone
+- type: Auditory
+  description: An insistent drumming
+- type: Auditory
+  description: A deep thrumming
+- type: Auditory
+  description: A wet, meaty THUMP
+- type: Auditory
+  description: Curious murmuring
+- type: Auditory
+  description: Marching feet
+- type: Auditory
+  description: Faint buzzing
+- type: Auditory
+  description: Heavy breathing
+- type: Auditory
+  description: A sharp snap
+- type: Auditory
+  description: Shuffling steps
+- type: Auditory
+  description: The step-clop-step-clop of
+- type: Auditory
+  description: A scream
+- type: Auditory
+  description: Running feet, closer and closer
+- type: Auditory
+  description: Tick, tock, tick, tock
+- type: Auditory
+  description: The sounds of a fight
+- type: Auditory
+  description: Slurred speech
+- type: Auditory
+  description: A slow tap, tap, tap
+- type: Auditory
+  description: Something dripping
+- type: Auditory
+  description: An electrical hum
+- type: Auditory
+  description: Frantic pounding
+- type: Auditory
+  description: Shocked blasphemies
+- type: Auditory
+  description: Grotesque, gristly chewing
+- type: Auditory
+  description: The hiss of escaping gas
+- type: Auditory
+  description: The creaking and groaning of
+- type: Auditory
+  description: Merchants hawking their wares
+- type: Auditory
+  description: A drunken scuffle
+- type: Auditory
+  description: A bestial roar
+- type: Auditory
+  description: Mournful howling
+- type: Auditory
+  description: The skittering of a many-legged thing
+- type: Auditory
+  description: Low noises of appreciation
+- type: Auditory
+  description: The clattering of bones
+- type: Auditory
+  description: A stone slab slamming to the ground
+- type: Auditory
+  description: Murmuring in a unknown language
+- type: Auditory
+  description: The frightened neighing of horses
+- type: Auditory
+  description: Something slithering
+- type: Auditory
+  description: A booming, unnaturally loud voice
+- type: Auditory
+  description: Muffled, stealthy footsteps
+- type: Auditory
+  description: A pained bellow
+- type: Auditory
+  description: Shouts of triumph
+- type: Auditory
+  description: The clank of chain
+- type: Auditory
+  description: Grinding gears
+- type: Auditory
+  description: A stifled curse, followed by a crash
+- type: Auditory
+  description: Wet, choking coughs
+- type: Auditory
+  description: An enormous sneeze
+- type: Auditory
+  description: Awed whispering
+- type: Tactile
+  description: You've just forgotten something
+- type: Tactile
+  description: Eyes watching you
+- type: Tactile
+  description: Scalding breath on your neck
+- type: Tactile
+  description: A gentle caress
+- type: Tactile
+  description: Ice in your veins
+- type: Tactile
+  description: Someone following close behind
+- type: Tactile
+  description: A sudden loss of balance
+- type: Tactile
+  description: A warm breeze
+- type: Tactile
+  description: Alight tap on the shoulder
+- type: Tactile
+  description: Aching feet
+- type: Tactile
+  description: Sticky with congealing blood
+- type: Tactile
+  description: A pressure on your ears
+- type: Tactile
+  description: Sparks of rage
+- type: Tactile
+  description: A moment of deja-vu
+- type: Tactile
+  description: A gut-wrenching acceleration
+- type: Tactile
+  description: Your stomach drops
+- type: Tactile
+  description: The crush of a crowd carrying you
+- type: Tactile
+  description: A friendly purr against your leg
+- type: Tactile
+  description: Bones breaking
+- type: Tactile
+  description: A dress like gossamer
+- type: Tactile
+  description: Cobwebs tangle in your hair
+- type: Tactile
+  description: A dull, rusty blade
+- type: Tactile
+  description: Slightly tipsy
+- type: Tactile
+  description: The thrill of fear
+- type: Tactile
+  description: Eye-stinging drips of sweat
+- type: Tactile
+  description: Fizzy water
+- type: Tactile
+  description: Air so humid you can hardly breathe
+- type: Tactile
+  description: Slimy goo
+- type: Tactile
+  description: Numb teeth
+- type: Tactile
+  description: Tingling arms
+- type: Tactile
+  description: Coarse-grained planks
+- type: Tactile
+  description: Smooth, age-worn mahogany
+- type: Tactile
+  description: Damp, clinging clothing
+- type: Tactile
+  description: Something small scuttles up your
+- type: Tactile
+  description: Wet socks
+- type: Tactile
+  description: Downy feathers
+- type: Tactile
+  description: Splinters catch on your arm
+- type: Tactile
+  description: Barbs catch your clothing
+- type: Tactile
+  description: Stabbing into your foot
+- type: Tactile
+  description: Searing the palm of your hand
+- type: Tactile
+  description: Chapped lips
+- type: Tactile
+  description: Clammy skin
+- type: Tactile
+  description: Grabbing your arm
+- type: Tactile
+  description: Constricting around your neck
+- type: Tactile
+  description: An abrupt halt
+- type: Tactile
+  description: Pulling your hair
+- type: Tactile
+  description: Your hair stands on end
+- type: Tactile
+  description: Luxuriant carpet beneath bare feet
+- type: Tactile
+  description: Warm woolly fabric
+- type: Tactile
+  description: A rumble in the ground
+- type: Tactile
+  description: A burst of frost and ice
+- type: Tactile
+  description: ing ground. Soggy, crumbling gr
+- type: Tactile
+  description: Dry blasts of furnace air
+- type: Tactile
+  description: A vicious, stabbing pain
+- type: Tactile
+  description: Squelching steps in something nasty
+- type: Tactile
+  description: Tickling on the back of your neck
+- type: Tactile
+  description: As insubstantial as mist
+- type: Tactile
+  description: Abruptly feeling naked and exposed
+- type: Tactile
+  description: Tread on something gummy
+- type: Tactile
+  description: Cold steel presses
+- type: Tactile
+  description: A frigid draft
+- type: Tactile
+  description: Silky strands brush your face
+- type: Tactile
+  description: Unpleasantly lumpy mattress
+- type: Tactile
+  description: Dozens of pinpricks across your back
+- type: Tactile
+  description: A twisted ankle
+- type: Tactile
+  description: Sand and dirt in your eyes
+- type: Tactile
+  description: An oily coating
+- type: Tactile
+  description: Rubbery coils around your neck
+- type: Tactile
+  description: A feathery touch
+- type: Tactile
+  description: An unseen presence
+- type: Tactile
+  description: Grit in your teeth
+- type: Tactile
+  description: Leathery wings beat against
+- type: Tactile
+  description: Sweaty and feverish
+- type: Tactile
+  description: A chill runs down your spine
+- type: Tactile
+  description: Cuffed in the side of the head
+- type: Tactile
+  description: Too slippery to hold
+- type: Tactile
+  description: Muscles seize up
+- type: Tactile
+  description: The urge to sneeze
+- type: Tactile
+  description: Deep, throbbing headache
+- type: Tactile
+  description: Arush of adrenaline
+- type: Tactile
+  description: Something dragging at your feet
+- type: Tactile
+  description: Droplets splatter you
+- type: Tactile
+  description: Clamped tight around your wrists
+- type: Tactile
+  description: Slamming into you
+- type: Tactile
+  description: Muscle spasms cramp
+- type: Tactile
+  description: Asurprising pinch
+- type: Tactile
+  description: Soot makes your eyes itch
+- type: Tactile
+  description: The urge to sneeze
+- type: Tactile
+  description: A stomach-tilting lurch
+- type: Tactile
+  description: An electrical jolt
+- type: Tactile
+  description: Overcome by memories
+- type: Tactile
+  description: Something lands on your head
+- type: Tactile
+  description: A push from behind
+- type: Tactile
+  description: A prod in the back
+- type: Tactile
+  description: Movement in your pocket
+- type: Tactile
+  description: Shuddering beneath you
+- type: Tactile
+  description: Tired and irritated
+- type: Tactile
+  description: Lighthearted and cheerful
+- type: Tactile
+  description: A phlegmy cough wracks your body
+- type: Tactile
+  description: Bored to tears
+- type: Tactile
+  description: Blind, stinking drunk
+- type: Tactile
+  description: A thud against your side
+- type: Tactile
+  description: A crunch underfoot
+- type: Tactile
+  description: Your muscles burn
+- type: Tactile
+  description: Lifted off the ground
+- type: Tactile
+  description: Your weapon gets caught in
+- type: Tactile
+  description: So full you can't move
+- type: Tactile
+  description: Like you could eat a horse
+- type: Tactile
+  description: Hit your funny bone
+- type: Tactile
+  description: Knocked to the ground
+- type: Tactile
+  description: Your ears suddenly pop
+- type: Tactile
+  description: A wave of dizziness and nausea
+- type: Tactile
+  description: Squirming under your skin
+- type: Tactile
+  description: A twisted ankle
+- type: Tactile
+  description: Your foot catches on
+- type: Tactile
+  description: Sweat breaks out
+- type: Tactile
+  description: An unexplainable shiver
+- type: Tactile
+  description: A tear trailing down your cheek
+- type: Tactile
+  description: A passionate kiss
+- type: Tactile
+  description: Crushed in a bear hug

@@ -1,0 +1,11 @@
+- name: Air
+  description: Movement, curiosity, exploration; life in its most dynamic form. Chaotic but friendly; social.
+
+- name: Fire
+  description: Aggression, energy, destruction; empowered but unchecked. Chaotic and dangerous; combat.
+
+- name: Earth
+  description: Survival, determination, defense; slow but steady and impervious. Orderly and unchanging; health.
+
+- name: Water
+  description: Intelligence, knowledge, eloquence; adaptable and understanding. Orderly but shifting; intellect.
